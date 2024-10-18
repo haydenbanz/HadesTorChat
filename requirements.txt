@@ -1,0 +1,8 @@
+threading
+random
+os
+PySocks
+socket
+PyQt5
+PySocks
+PyQt5
