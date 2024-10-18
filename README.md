@@ -49,6 +49,17 @@ Before installing and running **HadesTorChat**, make sure you have the following
   ```bash
   pip install -r requirements.txt
      ```
+  For Kali Linux
+`
+  sudo apt-get install python3-tk
+  `
+  `
+sudo apt-get update
+sudo apt-get install python3-tk
+sudo apt-get install python-tk
+pip3 install PySocks
+pip3 install PyQt5
+  `
   - 💻 **Kali Linux (Recommended)**: Although **HadesTorChat** is cross-platform, Kali Linux is the recommended environment for maximum security. Other Linux distributions such as Ubuntu or Debian-based are also supported to run server.py. However, **HadesTorChat** only works on Linux, while the client-side can run on Windows, Linux, and macOS.
 
 - 🔐 **PyQt & Tkinter**: Both PyQt and Tkinter are required for the graphical user interface (GUI) to function properly.
