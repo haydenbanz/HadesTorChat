@@ -6,3 +6,4 @@ socket
 PyQt5
 PySocks
 PyQt5
+tkinter
