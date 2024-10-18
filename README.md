@@ -129,7 +129,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 👤 0x_hayden  
 📧 Email: cubedimension@protonmail.com  
-📧 Email: barneshayden278@gmail.com
 
 ## 🙏 Credits
 
